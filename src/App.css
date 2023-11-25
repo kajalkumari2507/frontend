@@ -26,6 +26,11 @@
   background: #03123d !important;
 }
 
+.logo-nav{
+  width: 200px;
+  display: flex;
+  justify-content: space-between;
+}
 .people {
   font-family: Arial, sans-serif;
   margin: 20px;

@@ -15,7 +15,7 @@ export const SidebarData = [
       {
         title: 'Movie Name',
         path: '/films/moviename1',
-        icon: <IoIcons.IoIosPaper />,
+        icon: <IoIcons.IoMdFilm />,
       },
       {
         title: 'Movie Name',
@@ -35,13 +35,13 @@ export const SidebarData = [
       {
         title: 'People Name',
         path: '/people/people1',
-        icon: <IoIcons.IoIosPaper />,
+        icon: <IoIcons.IoMdPeople />,
         cName: 'sub-nav'
       },
       {
         title: 'People Name',
         path: '/people/people2',
-        icon: <IoIcons.IoIosPaper />,
+        icon: <IoIcons.IoMdPeople />,
         cName: 'sub-nav'
       }
     ]
@@ -57,12 +57,12 @@ export const SidebarData = [
       {
         title: 'Planets Name',
         path: '/planets/planetsname1',
-        icon: <IoIcons.IoIosPaper />
+        icon: <IoIcons.IoMdPlanet />
       },
       {
         title: 'Planets Name',
         path: '/planets/planetsname2',
-        icon: <IoIcons.IoIosPaper />
+        icon: <IoIcons.IoMdPlanet />
       },
     ]
   },
@@ -77,12 +77,12 @@ export const SidebarData = [
       {
         title: 'Species Name',
         path: '/species/speciesname1',
-        icon: <IoIcons.IoIosPaper />
+        icon: <IoIcons.IoMdTrophy />
       },
       {
         title: 'Species Name',
         path: '/species/speciesname2',
-        icon: <IoIcons.IoIosPaper />
+        icon: <IoIcons.IoMdTrophy />
       },
     ]
   },
@@ -97,12 +97,12 @@ export const SidebarData = [
       {
         title: 'Starship Name',
         path: '/starships/starship1',
-        icon: <IoIcons.IoIosPaper />
+        icon: <IoIcons.IoMdStar />
       },
       {
         title: 'Starship Name',
         path: '/starships/starship2',
-        icon: <IoIcons.IoIosPaper />
+        icon: <IoIcons.IoMdStar />
       }
     ]
   },
@@ -117,12 +117,12 @@ export const SidebarData = [
       {
         title: 'Vehicles Name',
         path: '/vehicles/vehiclesname1',
-        icon: <IoIcons.IoIosPaper />
+        icon: <IoIcons.IoMdBicycle />
       },
       {
         title: 'Vehicles Name',
         path: '/vehicles/vehiclesname2',
-        icon: <IoIcons.IoIosPaper />
+        icon: <IoIcons.IoMdBicycle />
       },
     ]
   }

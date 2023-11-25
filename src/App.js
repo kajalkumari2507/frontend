@@ -18,6 +18,7 @@ function App() {
         <Route path="/films/moviename1" exact element={<FilmsOne />} />
         <Route path="/films/moviename2" exact element={<FilmsTwo />} />
 
+        <Route path="/" exact element={<People />} />
         <Route path="/people" exact element={<People />} />
         <Route path="/people/people1" exact element={<PeopleOne />} />
         <Route path="/people/people2" exact element={<PeopleTwo />} />
